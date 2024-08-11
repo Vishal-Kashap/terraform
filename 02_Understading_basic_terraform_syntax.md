@@ -1,5 +1,6 @@
 ## Understanding Basic Terraform Syntax
 
+
 Terraform uses its own domain-specific language (DSL) called HashiCorp Configuration Language (HCL) to define infrastructure as code. This guide provides an overview of the basic syntax used in Terraform `.tf` files.
 
 ### Basic Syntax Components
