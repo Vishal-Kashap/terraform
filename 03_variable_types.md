@@ -1,4 +1,3 @@
-
 # Terraform Variables Types
 
 This document provides examples of different Terraform variable types and how to use them. The types covered include `string`, `list`, and `map`.
